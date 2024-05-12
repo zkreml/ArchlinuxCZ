@@ -16,8 +16,8 @@ Jste-li nadšenec do Arch Linuxu a máte zájem podílet se na vývoji komunity,
 ## Kontaktní informace
 
 Pro více informací nebo přímou komunikaci s námi můžete:
-- Navštívit naše [webové stránky](odkaz)
-- Připojit se k našemu komunitnímu [chatu/komunikační platformě](odkaz)
+- Navštívit naše [webové stránky](https://arch-linux.cz)
+- Připojit se k našemu komunitnímu [chatu/komunikační platformě](https://discord.gg/gkMWU28PxK)
 
 ## Licence
 
