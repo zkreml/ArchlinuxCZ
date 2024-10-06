@@ -12,7 +12,7 @@ Co je naším cílem?
 
 Jste-li nadšenec do Arch Linuxu a máte zájem podílet se na rozvoji komunity, jsme otevřeni vaší pomoci! Zde je několik způsobů, jak se můžete zapojit:
 
-- Přispějte do repozitáře: Navštivte náš repozitář na Gitea a podívejte se na otevřené úkoly nebo přidejte vlastní příspěvky. Pro podrobné informace o tom, jak se zapojit, si přečtěte náš CONTRIBUTING.md.
+- Přispějte do repozitáře: Navštivte náš repozitář na Gitea a podívejte se na otevřené úkoly nebo přidejte vlastní příspěvky. Pro podrobné informace o tom, jak se zapojit, si přečtěte náš [CONTRIBUTING.md](./CONTRIBUTING.md).
 - Diskutujte s námi: Připojte se k našemu fóru nebo komunikační platformě, kde můžete sdílet své nápady a zkušenosti.
 - Sdílejte znalosti: Napište návody, tipy nebo triky a podělte se o ně s komunitou prostřednictvím našeho repozitáře nebo webových stránek.
 
