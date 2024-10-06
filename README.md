@@ -1,4 +1,5 @@
 # Archlinux CZ: Spojujeme českou komunitu Arch Linuxu
+![logo](https://git.arch-linux.cz/ArchlinuxCz/ArchlinuxCz/raw/branch/main/logo/log_arch.png)
 
 Archlinux CZ je komunitní organizace zaměřená na podporu a rozvoj Arch Linuxu v české komunitě. Naším cílem je poskytovat užitečné zdroje, sdílet znalosti a spolupracovat na projektech, které pomáhají uživatelům Arch Linuxu v České republice efektivně využívat tento operační systém. Snažíme se vytvářet otevřené prostředí pro všechny nadšence do Linuxu, kde mohou přispívat, učit se a sdílet své zkušenosti s ostatními.
 Co je naším cílem?
