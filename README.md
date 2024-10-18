@@ -20,8 +20,7 @@ Jste-li nadšenec do Arch Linuxu a máte zájem podílet se na rozvoji komunity,
 
 - Webové stránky: https://arch-linux.cz
 - Fórum: https://forum.arch-linux.cz
-- Komunikační platforma: https://chat.arch-linux.cz
-- Repozitář na Gitea: https://git.arch-linux.cz/your-repository-link
+- Komunikační platforma: https://matrix.to/#/#archlinuxcz:matrix.org
 
 ## Licence
 
